@@ -20,3 +20,7 @@ It may help to consider the DAG of the parallel program.
 https://www.youtube.com/watch?v=li7FzDHYZpc
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous
+
+Used ChatGPT to create the test code, using the iterative & in-place mergesort test code as a base.
+
+I also ran the test code from this approved parallel mergesort repo to confirm that it is working: https://github.com/COSC3020/parallel-mergesort-KobeLimon21/blob/main/code.test.js
