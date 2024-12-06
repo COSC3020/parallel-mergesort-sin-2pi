@@ -1,4 +1,3 @@
-const async = require('async');
 
 function mergesort(array) {
     return new Promise(function(resolve) {
